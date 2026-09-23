@@ -1,6 +1,6 @@
 streamlit
-numpy
 pandas
+numpy
 pulp
 matplotlib
 openpyxl
